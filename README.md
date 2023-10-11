@@ -1,10 +1,15 @@
 # Модуль фитнес-трекера
-![Python](https://img.shields.io/badge/Python-3.7.9-green)
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 
 ---
 ## Описание проекта
 
 Модуль для фитнес трекера, рассчитывающий и отображающий полную информацию о тренировках по данным от блока датчиков
+
+---
+## Технологии
+* Python 3.9
+* ООП
 
 ---
 ## Функционал модуля
